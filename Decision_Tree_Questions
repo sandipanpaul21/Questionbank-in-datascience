@@ -1,2 +1,22 @@
-1. What is Decision Tree
-2. 
+1. What is Decision Tree. Give an Example
+2. What is Parametric and Non Parametric Test
+3. What is Supervised and Unsupervised Learning
+4. What is Classification and Regression
+5. What is Homogenity. Give example of Homogenity.
+6. Techniques to detect Homogenity.
+7. What is Entropy. Formula and give example.
+8. What is Information Gain. Formula and give example.
+9. What is Gini Index. Formula and give example.
+10. Give a example of Entropy and Information Gain through random dataset (practical example).
+11. Give a example of Gini Index through random dataset (practical example).
+12. Explain Decision Tree Classification/Classfication Tree, how we calculate homogenity and give an example.
+13. Explain Decision Tree Regression/Regression Tree, how we calculate homogenity and give an example.
+14. Advantage and Disadvantage of Decision Tree
+15. What is Random Forest
+16. What is Bagging. In bagging, what is hard voting(classification) and averaging(regression)
+17. What is Feature Importance in Random Forest
+18. Advantage and Disadvantage of Random Forest
+19. Default Parameter in Decision Tree and Random Forest used for hypertuning. Give an example.
+20. Stopping criteria in Decision Tree and Random Forest.
+21. What is Cross Validation.
+22. What is Out of Bag (OOB) and Bootsrap method. Difference between OOB and CV.
